@@ -1,4 +1,3 @@
-# react-news-portal
 ## This version created without React Hooks
 
 To start the app do (development)
